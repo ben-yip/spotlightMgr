@@ -1,0 +1,14 @@
+{
+  "name": "spotlight-manager",
+  "version": "1.0.0",
+  "description": "Get Windows spotlight wallpaper with minimal effort.",
+  "main": "index.js",
+  "bin":{
+    
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BenYip",
+  "license": "MIT"
+}
